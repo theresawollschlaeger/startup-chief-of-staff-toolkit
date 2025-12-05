@@ -1,6 +1,6 @@
 # Startup Chief of Staff Toolkit
 
-This repository contains a small set of templates and playbooks I use (and would use) in a Chief of Staff / Executive Operations role.
+This repository contains a small set of templates and playbooks I would use in a Chief of Staff / Executive Operations role.
 
 The focus is on:
 - Turning complex topics into clear, actionable communication
