@@ -28,7 +28,3 @@ The repo is intentionally simple: it's not about code, but about how to create l
 - Chiefs of Staff
 - Founders and CEOs
 - Strategy / Ops leaders in startups or scale-ups
-
-## How to use
-
-Pick a template, copy it into your own workspace (Notion, Google Docs, Slides), adapt the questions and sections to your company, and start using it in your leadership rhythm.
